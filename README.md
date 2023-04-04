@@ -1,7 +1,6 @@
-# Project-6-Data-Dashboard-Part-2
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - *RandoRecipes*
 
-Submitted by: **Your Name Here**
+Submitted by: **Charidi Stevens**
 
 This web app: **Data Dashboard is a web app that uses spoonacular API to make a Data dashboard of recipes that includes recipes name, price, cook time and health score.**
 
