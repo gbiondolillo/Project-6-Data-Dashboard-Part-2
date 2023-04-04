@@ -3,7 +3,7 @@
 
 Submitted by: **Your Name Here**
 
-This web app: **insert description**
+This web app: **Data Dashboard is a web app that uses spoonacular API to make a Data dashboard of recipes that includes recipes name, price, cook time and health score.**
 
 Time spent: **7** hours spent in total
 
